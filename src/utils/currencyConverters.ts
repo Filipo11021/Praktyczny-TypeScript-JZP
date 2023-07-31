@@ -1,0 +1,3 @@
+// function convertUSDToPLN() {}
+
+// function convertPLNToUSD() {}
